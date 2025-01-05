@@ -1,4 +1,4 @@
-# Advanced-AIO-Bot Discord Bot
+# RED AIO V1 Discord Bot
 
 ## Features
 
@@ -58,13 +58,6 @@
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/RayDev07/AIO-V2](https://github.com/RayDev07/AIO-V2)
-- **Issues**: [https://github.com/RayDev07/AIO-V2/issues](https://github.com/RayDev07/AIO-V2/issues)
-- **Discord Documentation**: [https://dsc.gg/codexdev](https://dsc.gg/codexdev)
-
-## Support
-
+- **RED AIO V1 Repository**: [CLICK ME](https://github.com/Prodigy-API/red-aiov1)
 If you encounter any issues or have any questions, please feel free to open an issue on GitHub or join our support server on Discord.
-
-- **GitHub Issues**: [https://github.com/RayDev07/AIO-V2/issues](https://github.com/RayDev07/AIO-V2/issues)
-- **Discord Support Server**: [https://dsc.gg/codexdev](https://dsc.gg/codexdev)
+- **Discord Support Server**: [Click Me](https://dsc.gg/redenginedsc)
