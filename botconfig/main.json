@@ -1,0 +1,23 @@
+{
+    "clienttoken": "",
+    "Note_Token:": "Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+    "clientname": "RED-AIOv1",
+    "clientid": "",
+    "TestingServerID": "",
+    "clientavatar": "",
+    "prefix": "&",
+    "developerID": [
+        "77fc91c3ffbd42b2be7837954eb96054"
+    ],
+    "mongooseConnectionString": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "colorthemecode": "#ff3131",
+    "randomMessages_Cooldown": [
+        "Wait Dont Spam...",
+        "Spaming Isn't Cool....",
+        "Never Gonna Let You Down",
+        "Hold ur horses....",
+        "Are you whore"
+    ],
+    "NOTE:": "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS",
+    "topgg": ""
+}
