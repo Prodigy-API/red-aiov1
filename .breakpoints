@@ -1,0 +1,20 @@
+{
+  "files": {
+    "events/client/ready.js": [
+      {
+        "id": "ce507320-2f24-4e06-a58b-10677356c929",
+        "line": 51,
+        "version": 1,
+        "index": 1737
+      }
+    ],
+    "schemas/starboard.js": [
+      {
+        "id": "d9733194-391f-46f3-af59-e720f34841a4",
+        "line": 1,
+        "version": 106,
+        "index": 0
+      }
+    ]
+  }
+}
